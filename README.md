@@ -20,6 +20,7 @@ I am looking to collaborate on open-source projects related to web development a
 ## Contact Me
 - 📧 Email: [Email Me](mailto:vijaypothuganti1@gmail.com)
 - 💼 LinkedIn: [click here for my linkedin](https://www.linkedin.com/in/vijayramaraopothuganti)
+- Portfolio: [link to my Portfolio](https://pothugantivijay.github.io/portfolio/)
 
 ## Pronouns
 - He/Him
