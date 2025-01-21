@@ -18,8 +18,8 @@ I am currently diving deeper into:
 I am looking to collaborate on open-source projects related to web development and cloud computing.
 
 ## Contact Me
-- 📧 Email: [your-email@example.com](mailto:vijaypothuganti1@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/vijayramaraopothuganti)
+- 📧 Email: (mailto:vijaypothuganti1@gmail.com)
+- 💼 LinkedIn: (https://www.linkedin.com/in/vijayramaraopothuganti)
 
 ## Pronouns
 - He/Him
