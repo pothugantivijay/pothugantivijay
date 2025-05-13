@@ -1,57 +1,65 @@
-<h1 align="center">Hi 👋, I'm Vijay Rama Rao Pothuganti</h1>
-<h3 align="center">A Passionate Full Stack Developer | Cloud Enthusiast | DevOps Learner</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F76B8A&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Vijay+Rama+Rao+Pothuganti!;FullStack+Developer+%7C+DevSecOps"/>
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pothugantivijay&label=Profile%20views&color=0e75b6&style=flat" alt="pothugantivijay" />
+  <img src="https://komarev.com/ghpvc/?username=pothugantivijay&label=Profile%20Views&color=ff69b4&style=flat-square" alt="profile views"/>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 🔍 Who Am I?
 
-- 🎓 Master’s in Information Systems at **Northeastern University**, Boston  
-- 🔭 I’m currently working on projects in **Spring Boot**, **React**, and **Kubernetes**  
-- 🌱 I’m currently deepening my skills in **DevOps**, **Cloud Infrastructure**, and **Containerization**  
-- 🤝 Looking to collaborate on **Open Source Projects** focused on Web and Cloud Development  
-- ⚡ Fun fact: I enjoy reading books on tech, leadership, and personal development
+💡 I’m a backend developer with a passion for **secure system design**, **cloud-native architecture**, and **automated infrastructure**. From REST APIs to container orchestration, I love building resilient systems that scale.
 
----
+- 🎓 Master's in Information Systems @ **Northeastern University**, Boston
+- 🛠️ Ex-Backend Engineer @ **Wipro**, built enterprise-level APIs in Java
+- ⚙️ Tech I’m deep in: **Spring Boot**, **Terraform**, **Kubernetes**, **CI/CD**, **Docker**
+- 🔐 Advocate for **DevSecOps** culture, cloud cost-efficiency, and clean code
 
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+> 🚀 Mission: Build software that's *secure, scalable, and smart*.
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Tech Arsenal
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pothugantivijay&show_icons=true&locale=en" alt="pothugantivijay" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pothugantivijay" alt="pothugantivijay" />
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,gcp,terraform,linux,git,postgres,mysql&perline=6" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 🌟 Projects That Matter
 
-<p align="left">
-  <a href="mailto:vijaypothuganti1@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-  <a href="https://www.linkedin.com/in/vijayramaraopothuganti" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="https://www.vijaypothuganti.site" target="blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
+- **🩺 MEDICARE** – Healthcare platform for emergency coordination, volunteer engagement, and medication tracking (Spring Boot + React + GCP)
+- **📊 Boston Housing ML** – ML-driven housing price prediction engine with optimized regression models and EDA visualizations
+- **🔐 DevSecOps Blueprint** – CI/CD template using Terraform, GitHub Actions, and Docker for rapid and secure microservice delivery
+
+---
+
+### 📈 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pothugantivijay&show_icons=true&count_private=true&theme=tokyonight&hide=issues" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pothugantivijay&layout=compact&theme=tokyonight&langs_count=6" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pothugantivijay&theme=algolia&no-frame=true&margin-w=15&title=MultiLanguage,Commits,Repositories" />
+</p>
+
+---
+
+### 📬 Let’s Connect
+
+<p align="center">
+  <a href="mailto:vijaypothuganti1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vijayramaraopothuganti"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.vijaypothuganti.site"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
 
 <!---
 pothugantivijay/pothugantivijay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
